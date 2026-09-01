@@ -7,9 +7,8 @@ A simple HTML project that demonstrates different scrolling effects using the HT
 ## 🌐 Live Demo
 
 **GitHub Pages:**
-https://your-username.github.io/your-repository-name/
+https://mohanashankar2007-spec.github.io/Scrolling-Text/
 
-> Replace the above link with your actual GitHub Pages URL.
 
 ---
 
